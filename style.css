@@ -1,0 +1,19 @@
+body
+{
+	font-family:Bradley Hand;
+}
+h1
+{
+	text-align:center;
+	color:forestgreen;
+	margin:30px 0 50px;
+}
+.gallery
+{
+	margin:10px 50px;
+	
+}
+.gallery img
+{
+	padding:4.5px;
+}
